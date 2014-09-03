@@ -1,5 +1,7 @@
 
-# socket.io-client
+# Marlin-client
+
+This is a fork of "socket.io" with the aim of improving its stability and merging the dozens of pull requests that are mostly ignored on the official repo.
 
 [![Build Status](https://secure.travis-ci.org/Automattic/socket.io-client.svg)](http://travis-ci.org/Automattic/socket.io-client)
 [![NPM version](https://badge.fury.io/js/socket.io-client.svg)](http://badge.fury.io/js/socket.io-client)
